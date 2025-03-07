@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevankS5
+- 👋 Hi, I’m Devank Srivastava
 - 👀 I’m interested in AI ML and Competitive Programming
 - 🌱 I’m currently learning Python, C++
 - 💞️ I’m looking to collaborate on  NLP Projects
